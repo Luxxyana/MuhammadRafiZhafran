@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Muhammad Rafi Zhafran</string>
+    <string-array name="Gender">
+        <item>Prefer not to say</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
